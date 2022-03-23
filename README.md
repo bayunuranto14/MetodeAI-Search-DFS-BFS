@@ -4,12 +4,13 @@
  
  Jenis AI Search :
 
-  Blind Search (Uninformed)
-  a. BFS (Breadth First Search)
-  b. DFS (Depth First Search)
-  c. UCS (Uniform Cost Search)
-  Heuristic Search (informed)
-  a. UCS (Uniform Cost Search)
-  b. Hill CLimbing
-  c. A
+  Blind Search (Uninformed) </br>
+  a. BFS (Breadth First Search) </br>
+  b. DFS (Depth First Search) </br>
+  c. UCS (Uniform Cost Search) </br>
+  <br/>
+  Heuristic Search (informed) </br>
+  a. UCS (Uniform Cost Search) </br>
+  b. Hill CLimbing </br>
+  c. A </br>
   d. A*
